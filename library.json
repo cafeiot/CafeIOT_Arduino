@@ -1,0 +1,12 @@
+{
+    "name": "CafeIot_Arduino",
+    "keywords": "m2m, iot, CafeIot_Arduino",
+    "description": "A library for start Arduino whit CafeIot.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cafeiot/CafeIot_Arduino"
+    },
+    "version": "0.5",
+   
+    "frameworks": "arduino"
+}
