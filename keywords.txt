@@ -1,12 +1,12 @@
 #######################################
-# Syntax Coloring Map For CafeIOT
+# Syntax Coloring Map For CafeIOT_Arduino
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-CafeIOT	KEYWORD1
+CafeIOT_Arduino	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
